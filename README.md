@@ -1,0 +1,1 @@
+# Welcome to QueryPie\n\nSimplify Data Governance.\n\n- Website : https://www.querypie.com\n- Blog : https://blog.querypie.com\n- Support : https://support.querypie.com
